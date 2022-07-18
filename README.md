@@ -12,7 +12,5 @@ Our final prediction process takes user-generated images and generates hand land
 
 However, we did not have enough time to train a dataset for our final pipeline since we spent a lot of our time training our dataset for our initial pipeline. Our current model therefore uses our initial dataset and model which was trained for our border detection algorithm (not our final landmark model). This achieves a decent final accuracy of 92.6%, but can be made much better using our final landmark model.
 
-We first plan to train a dataset for our final landmark detection pipeline. We also plan to improve our dataset by extending it to include the entire ASL dictionary, and provide support for other sign languages as well. We also aim to crowdsource data from ASL users, and ultimately create a user-friendly mobile application for use in casual settings where a laptop is not available.
-
 For more information on the project:
 https://devpost.com/software/voiceover-pcwjmi
